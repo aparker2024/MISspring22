@@ -10,18 +10,18 @@ namespace Lab2 // Note: actual namespace depends on the project name.
             short milesTraveled = 0;
             short travelTime = 0;
 
-            Console.WriteLine("Input miles traveled:");
+            Console.WriteLine("Miles traveled:");
             string userInput = Console.ReadLine();
             milesTraveled = short.Parse(userInput);
 
-            Console.WriteLine("Enter time travel in hours:");
+            Console.WriteLine("Time travel(hours):");
             userInput = Console.ReadLine();
             travelTime = short.Parse(userInput);
 
             int milesPerGallon = 25;
             double GAS_PRICE = 2.96;
 
-            Console.WriteLine("Amount spent on gas: $" + amtSpentonGas + "Your average speed: " + speed + "mph");
+            Console.WriteLine("Enter amount spent on gas: $" + amtSpentonGas + "Your average speed: " + speed + "mph");
 
             double gallonsUsed = milesTraveled / milesPerGallon;
             double amtSpentonGas = gallonsUsed * GAS_PRICE;
