@@ -21,7 +21,7 @@ namespace Lab2 // Note: actual namespace depends on the project name.
             int milesPerGallon = 25;
             double GAS_PRICE = 2.96;
 
-            Console.WriteLine("Enter amount spent on gas: $" + amtSpentonGas + "Your average speed: " + speed + "mph");
+            Console.WriteLine("Enter amount spent on gas:" + amtSpentonGas + "Enteraverage speed: " + speed + "mph");
 
             double gallonsUsed = milesTraveled / milesPerGallon;
             double amtSpentonGas = gallonsUsed * GAS_PRICE;
