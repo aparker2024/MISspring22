@@ -1,0 +1,5 @@
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\mis221-snowmanlab-aparker2024\obj\Debug\net6.0\mis221-snowmanlab-aparker2024.csproj.AssemblyReference.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\mis221-snowmanlab-aparker2024\obj\Debug\net6.0\mis221-snowmanlab-aparker2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\mis221-snowmanlab-aparker2024\obj\Debug\net6.0\mis221-snowmanlab-aparker2024.AssemblyInfoInputs.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\mis221-snowmanlab-aparker2024\obj\Debug\net6.0\mis221-snowmanlab-aparker2024.AssemblyInfo.cs
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\mis221-snowmanlab-aparker2024\obj\Debug\net6.0\mis221-snowmanlab-aparker2024.csproj.CoreCompileInputs.cache
