@@ -1,0 +1,15 @@
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\bin\Debug\net6.0\SkyWalker.exe
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\bin\Debug\net6.0\SkyWalker.deps.json
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\bin\Debug\net6.0\SkyWalker.runtimeconfig.json
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\bin\Debug\net6.0\SkyWalker.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\bin\Debug\net6.0\ref\SkyWalker.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\bin\Debug\net6.0\SkyWalker.pdb
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.csproj.AssemblyReference.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.AssemblyInfoInputs.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.AssemblyInfo.cs
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.csproj.CoreCompileInputs.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\ref\SkyWalker.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.pdb
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\SkyWalker\obj\Debug\net6.0\SkyWalker.genruntimeconfig.cache
