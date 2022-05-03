@@ -1,0 +1,15 @@
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\bin\Debug\net6.0\OOPproject4-18.exe
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\bin\Debug\net6.0\OOPproject4-18.deps.json
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\bin\Debug\net6.0\OOPproject4-18.runtimeconfig.json
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\bin\Debug\net6.0\OOPproject4-18.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\bin\Debug\net6.0\ref\OOPproject4-18.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\bin\Debug\net6.0\OOPproject4-18.pdb
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.csproj.AssemblyReference.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.AssemblyInfoInputs.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.AssemblyInfo.cs
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.csproj.CoreCompileInputs.cache
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\ref\OOPproject4-18.dll
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.pdb
+C:\Users\apark\OneDrive\Documents\source\repos\MISspring22\OOPproject4-18\obj\Debug\net6.0\OOPproject4-18.genruntimeconfig.cache
